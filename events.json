@@ -1,0 +1,30 @@
+[
+  {
+    "name": "openai-cookbook",
+    "owner": "openai",
+    "description": "Examples and guides for using OpenAI's APIs.",
+    "stargazers_count": 42000,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "A community-driven learning platform for web development.",
+    "stargazers_count": 390000,
+    "language": "JavaScript"
+  },
+  {
+    "name": "vite",
+    "owner": "vitejs",
+    "description": "Next Generation Frontend Tooling.",
+    "stargazers_count": 66000,
+    "language": "TypeScript"
+  },
+  {
+    "name": "axios",
+    "owner": "axios",
+    "description": "Promise based HTTP client for the browser and node.js.",
+    "stargazers_count": 104000,
+    "language": "JavaScript"
+  }
+]
